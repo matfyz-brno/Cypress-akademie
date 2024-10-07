@@ -28,4 +28,10 @@ const promennaConst; // predem rikame že se nikdy nic nezmeni , vždy u sebe mu
 
 //JS automaticky umi poznat, co je to za typ dat
 
-console.log(firstName)
+console.log(firstName); 
+
+/*
+*dokumentace k nize uvedene funkci
+*/
+// function karelNeseCaj () => {}
+
